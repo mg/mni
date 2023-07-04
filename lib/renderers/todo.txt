@@ -1,0 +1,6 @@
+Render as QR code
+Share to share sheet
+Render in portrait or landscape, detect upside down
+Be brightness sensitive
+Scene to split information
+    e.g. render name, then render email, etc.
